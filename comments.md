@@ -1,0 +1,1 @@
+Injeção da dependência SellerDaoJDBC através do DaoFactory utilizando a interface SellerDao

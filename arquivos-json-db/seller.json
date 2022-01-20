@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 1,
+        "Name": "Bob Brown",
+        "Email": "bob@gmail.com",
+        "BirthDate": "1998-04-21 00:00:00",
+        "BaseSalary": 1000.0,
+        "DepartmentId": 1
+    },
+    {
+        "Id": 2,
+        "Name": "Maria Green",
+        "Email": "maria@gmail.com",
+        "BirthDate": "1979-12-31 00:00:00",
+        "BaseSalary": 3090.0,
+        "DepartmentId": 2
+    },
+    {
+        "Id": 3,
+        "Name": "Alex Grey",
+        "Email": "alex@gmail.com",
+        "BirthDate": "1988-01-15 00:00:00",
+        "BaseSalary": 1000.0,
+        "DepartmentId": 1
+    },
+    {
+        "Id": 4,
+        "Name": "Martha Red",
+        "Email": "martha@gmail.com",
+        "BirthDate": "1993-11-30 00:00:00",
+        "BaseSalary": 3000.0,
+        "DepartmentId": 4
+    },
+    {
+        "Id": 5,
+        "Name": "Donald Blue",
+        "Email": "donald@gmail.com",
+        "BirthDate": "2000-01-09 00:00:00",
+        "BaseSalary": 4000.0,
+        "DepartmentId": 3
+    },
+    {
+        "Id": 6,
+        "Name": "Alex Pink",
+        "Email": "bob@gmail.com",
+        "BirthDate": "1997-03-04 00:00:00",
+        "BaseSalary": 3090.0,
+        "DepartmentId": 2
+    },
+    {
+        "Id": 7,
+        "Name": "Carl Purple",
+        "Email": "carl@gmail.com",
+        "BirthDate": "1985-04-22 00:00:00",
+        "BaseSalary": 3000.0,
+        "DepartmentId": 4
+    }
+]
