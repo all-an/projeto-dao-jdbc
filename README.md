@@ -6,7 +6,6 @@ Projeto Java , MySQL , DAO (Data Access Objects), JDBC
 
 ### Estudando Java , MySQL , DAO (Data Access Objects), JDBC (Java Database Connectivity)
 
-> (( em andamento ))
 
 <p align="center">
         <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
